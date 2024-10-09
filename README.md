@@ -7,4 +7,4 @@
 
 This tutorial covers essential concepts for creating a secure authentication system with Flask and SQLAlchemy.
 
-**Source Code**: (Add your source code link here)[https://youtu.be/DKenYUww__s] 
+### Complete Explanation: [Click Here To Open The Complete Video](https://youtu.be/DKenYUww__s)
